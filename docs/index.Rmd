@@ -1,0 +1,49 @@
+---
+layout: html_document
+---
+
+<p align="center">
+  <img src="logo-congressoIMECC_tp.png" alt="Project Logo" width="750"/>
+</p>
+
+<div style="margin-top: 40px;"></div>
+
+
+<h1 align="center">
+  Modelagem Estatística: Uma Jornada pelos Tidy Models em R
+</h1>
+
+<p align="center">
+  <strong>Samara Kiihl</strong> &nbsp; | &nbsp; <strong>Tatiana Benaglia</strong><br/>
+  <em> Departamento de Estatística - IMECC - UNICAMP</em>
+</p>
+
+<div style="margin-top: 40px;"></div>
+
+
+
+# 🖥️ Slides
+
+Slides do minicurso ministrado durante o [II EPPM](https://sites.google.com/unicamp.br/eppm2/) nos dias 30 de Junho e 2 de Julho de 2026:
+
+[01- Introdução](https://drive.google.com/file/d/1bsFonV_1GhiQmm4H1P6CRf10ID1G0bwh/view?usp=sharing)
+
+[02 - Estrutura dos Tidymodels](https://drive.google.com/file/d/1_xAuNr-zDlBQjDr3yfReDXZ1l1sVMT7O/view?usp=sharing)
+
+[03 - Avaliando e Comparando Modelos](https://drive.google.com/file/d/1fPX0dmKnDjXrYa-GXvYcyx-ByEMR2AeC/view?usp=sharing)
+
+[04 - Ajustando Hiperparâmetros](https://drive.google.com/file/d/1cttI0cXDXcuqM-OXSif9WBrl6CrFZ170/view?usp=sharing)
+
+
+---
+
+## 📖 Tutoriais
+
+- [Tutorial de Regressão](Tutorial_TidyModels_Regressao.html)
+  <br>Tutorial para ajuste de modelo supervisionado de regressão com os dados `abalone`.
+
+- [Tutorial de Classificação](Tutorial_TidyModels_Classificacao.html)
+  <br>Tutorial para ajuste de modelo supervisionado de classificação com dados sobre diabetes.
+
+---
+
