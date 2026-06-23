@@ -26,13 +26,13 @@ layout: html_document
 
 Slides do minicurso ministrado durante o [II EPPM](https://sites.google.com/unicamp.br/eppm2/) nos dias 30 de Junho e 2 de Julho de 2026:
 
-[01- Introdução](https://drive.google.com/file/d/1bsFonV_1GhiQmm4H1P6CRf10ID1G0bwh/view?usp=sharing)
+[01- Introdução](https://drive.google.com/file/d/1WI3rtOdxPpQsVWKQX67eCSU052TNxNnd/view?usp=sharing)
 
-[02 - Estrutura dos Tidymodels](https://drive.google.com/file/d/1_xAuNr-zDlBQjDr3yfReDXZ1l1sVMT7O/view?usp=sharing)
+[02 - Estrutura dos Tidymodels](https://drive.google.com/file/d/1vlPnuln8U4MVXFCoiOGeMs-7J6nH-izk/view?usp=sharing)
 
-[03 - Avaliando e Comparando Modelos](https://drive.google.com/file/d/1fPX0dmKnDjXrYa-GXvYcyx-ByEMR2AeC/view?usp=sharing)
+[03 - Avaliando e Comparando Modelos](https://drive.google.com/file/d/16LEEdX1YAmhO6Z-K8HLLWYCw9SWDkxEk/view?usp=sharing)
 
-[04 - Ajustando Hiperparâmetros](https://drive.google.com/file/d/1cttI0cXDXcuqM-OXSif9WBrl6CrFZ170/view?usp=sharing)
+[04 - Ajustando Hiperparâmetros](https://drive.google.com/file/d/1UfyF7CxNTn_xVarWkgUPR2rOA2k3LZNY/view?usp=sharing)
 
 
 ---
